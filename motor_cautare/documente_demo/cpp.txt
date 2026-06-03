@@ -1,0 +1,2 @@
+Programarea in C++ este un limbaj de programare puternic si eficient.
+C++ suporta paradigme multiple: OOP, generica si procedurala.

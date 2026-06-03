@@ -1,0 +1,3 @@
+Programarea orientata pe obiecte permite organizarea codului in clase si obiecte reutilizabile.
+Un algoritm eficient reduce timpul de executie si consumul de memorie al unei aplicatii.
+Limbajele C++, Python si Java sunt printre cele mai populare limbaje de programare din lume.

@@ -1,0 +1,2 @@
+Python este popular in domeniul inteligentei artificiale si al datelor.
+Bibliotecilepython faciliteaza procesarea textului si analiza datelor.

@@ -1,0 +1,2 @@
+Motoarele de cautare indexeaza documente pentru regasire rapida.
+Unul din algoritmii de baza este indexul invers care mapeaza cuvinte la documente.

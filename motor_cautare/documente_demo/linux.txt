@@ -1,0 +1,2 @@
+Linux este un sistem de operare open-source bazat pe kernel-ul Linux.
+Programatorii Linux folosesc adesea C++ si Python pentru aplicatii de sistem.
